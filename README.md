@@ -3,6 +3,6 @@
  
 
 ###  Portfolio Assignment 0: Getting Started
-* [Here](/Users/zach/Documents/GitHub/HLT_Portfolio/Overview of NLP.pdf) is the pdf to the assignment, titled "Overview of NLP".
+* [Here](https://github.com/zachallen8/HLT_Portfolio/blob/8579f5ae8763c2d4bf4519574dbcca549a1950ba/Overview%20of%20NLP.pdf) is the pdf to the assignment, titled "Overview of NLP".
  
  
