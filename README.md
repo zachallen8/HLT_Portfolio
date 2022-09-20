@@ -14,3 +14,6 @@
 
 ###Portfolio Assignment 2: Exploring NLTK
 * [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%202/zma180000-portfolio-assignment-3.pdf) is the .pdf for the Jupyter Notebook for the assignment.
+
+###Portfolio Assignment 3: Guessing Game
+* [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%203/HW3_zma180000.py) is the .py file for the assignment.
