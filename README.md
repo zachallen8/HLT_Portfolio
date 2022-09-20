@@ -12,8 +12,8 @@
 * Some strengths regarding text processing in python are the ease of checking data formatting through built in features such as the re library, and how easy it is to get direct input from the user and store it into variables on the fly. A weaknesses is the difficulty of breaking down the file for input in comparison to other languages such as Java with it's Scanner library.
 * I learned about data formatting through regular expressions and file input in this assignment. 
 
-###Portfolio Assignment 2: Exploring NLTK
+### Portfolio Assignment 2: Exploring NLTK
 * [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%202/zma180000-portfolio-assignment-3.pdf) is the .pdf for the Jupyter Notebook for the assignment.
 
-###Portfolio Assignment 3: Guessing Game
+### Portfolio Assignment 3: Guessing Game
 * [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%203/HW3_zma180000.py) is the .py file for the assignment.
