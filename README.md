@@ -17,3 +17,6 @@
 
 ### Portfolio Assignment 3: Guessing Game
 * [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%203/HW3_zma180000.py) is the .py file for the assignment.
+
+### Portfolio Assignment 4: WordNet
+* [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%204/HW4_zma180000.pdf) is the link to the .pdf for the Jupyter Notebook for the assignment.
