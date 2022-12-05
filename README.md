@@ -20,3 +20,24 @@
 
 ### Portfolio Assignment 4: WordNet
 * [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%204/HW4_zma180000.pdf) is the link to the .pdf for the Jupyter Notebook for the assignment.
+
+### Portfolio Assignment 5: N-Grams
+* [Here](https://github.com/zachallen8/HLT_Portfolio/tree/main/Portfolio%20Assignment%205) is the link for the .py and .pdf for the assignment.
+
+### Portfolio Assignment 6: Web Crawler
+* [Here](https://github.com/zachallen8/HLT_Portfolio/tree/main/Porfolio%20Assignment%206) is the link for the .py and .pdf for the assignment.
+
+### Portfolio Assignment 7: Syntax Parsing
+* [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%207/Note%20Oct%2016%2C%202022.pdf) is the link to the .pdf for the assignment.
+
+### Portfolio Assignment 8: Author Attribution
+* [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%208/authorAttribution.pdf) is the link to the .pdf for the assignment.
+
+### Portfolio Assignment 9: ACL Summary
+* [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%209/ACL%20Summary.pdf) is the link to the .pdf for the assignment.
+
+### Portfolio Assignment 10: Chatbot
+* [Here](https://github.com/zachallen8/HLT_Portfolio/tree/main/Portfolio%20Assignment%2010) is the link to the multiple files for the assignment.
+
+###Portfolio Assignment 11: Text Classification
+* [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%2011/textClassification.pdf) is the link to the .pdf for the assignment.
