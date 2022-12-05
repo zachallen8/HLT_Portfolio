@@ -39,5 +39,5 @@
 ### Portfolio Assignment 10: Chatbot
 * [Here](https://github.com/zachallen8/HLT_Portfolio/tree/main/Portfolio%20Assignment%2010) is the link to the multiple files for the assignment.
 
-###Portfolio Assignment 11: Text Classification
+### Portfolio Assignment 11: Text Classification
 * [Here](https://github.com/zachallen8/HLT_Portfolio/blob/main/Portfolio%20Assignment%2011/textClassification.pdf) is the link to the .pdf for the assignment.
